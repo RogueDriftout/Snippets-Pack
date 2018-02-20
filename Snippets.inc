@@ -1,3 +1,4 @@
+//Useful snippets by Rogue 2018/2/20
 //Get Weapon Slot from id:
 stock GetWeaponSlot(weaponid) 
 { 
@@ -68,7 +69,6 @@ stock GetWeaponSlot(weaponid)
     return slotid; 
 }
 //***************************************//
-
 //Loop no-driver vehicles:
 stock LoopNDCars() 
 { 
@@ -90,7 +90,6 @@ stock LoopNDCars()
     return 1; 
 }
 //***************************************//
-
 //Anti-hacked samp clients:
 stock IsPlayerBot(playerid)
 {  
